@@ -18,4 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&text=Hello!&section=header%fontsize=70)
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+<p align='center'>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+</p>

@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=3000&text=Hello!&section=header%fontsize=70)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&text=Hello!&section=header%fontsize=70)

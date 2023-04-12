@@ -26,7 +26,7 @@
 <h3 align='center'>📚 Learning</h3>
     <p align='center'>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=black">
+  <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white">
 
   
 </p>

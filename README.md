@@ -27,6 +27,6 @@
     <p align='center'>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white">
-
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
   
 </p>
